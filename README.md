@@ -36,9 +36,4 @@ This repository explores the history, data, and evolution of the Olympic Games, 
 
 ---
 
-## 📊 Visual Highlights
-https://olympic-1b1c61e13773.herokuapp.com/
-
-- Inspired by the Olympic spirit and open data community
-- Data from Kaggle and the International Olympic Committee
 
