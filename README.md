@@ -1,5 +1,5 @@
+![image](https://github.com/user-attachments/assets/9f730a1e-8268-4280-882c-e4e3f54b1e6d)
 
-![Olympic Rings](https://upload.wikimedia.org/wikipedia/commons/5/5c/Olympic_rings_without Project
 
 *Celebrating the spirit, data, and stories of the Olympic Games*
 
