@@ -37,27 +37,8 @@ This repository explores the history, data, and evolution of the Olympic Games, 
 ---
 
 ## 📊 Visual Highlights
-
-**Medal Tally Over Time:**  
-![Medal Tally](https://upload.wikimedia.org/wikipedia/commons/7/7c/Medal_table_Olympic_Games Participation Trends:**  
-![Gender Participation](https://upload.wikimedia.org/wikipedia/commons/7/7d/Olympic_Games_gender_part Acknowledgements
+https://olympic-1b1c61e13773.herokuapp.com/
 
 - Inspired by the Olympic spirit and open data community
 - Data from Kaggle and the International Olympic Committee
 
----
-
-> *“The most important thing in the Olympic Games is not winning but taking part.”*  
-> - Pierre de Coubertin
-
----
-
-**Enjoy exploring the world of the Olympics!**
-
----
-
-You can copy and paste this into your `README.md` file.  
-Feel free to personalize it further with your own screenshots, features, or project-specific details!
-
----
-Answer from Perplexity: pplx.ai/share
