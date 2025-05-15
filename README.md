@@ -1,7 +1,8 @@
-![image](https://github.com/user-attachments/assets/9f730a1e-8268-4280-882c-e4e3f54b1e6d)
+  ![image](https://github.com/user-attachments/assets/c5b3d7ee-0435-4441-a232-3db1d4c9f6f6)
 
 
-*Celebrating the spirit, data, and stories of the Olympic Games*
+
+  *Celebrating the spirit, data, and stories of the Olympic Games*
 
 ---
 
