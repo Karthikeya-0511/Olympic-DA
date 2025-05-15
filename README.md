@@ -60,13 +60,6 @@ This repository explores the history, data, and evolution of the Olympic Games, 
    jupyter notebook Olympics.ipynb
    ```
 
-## Future Enhancements
-
-* Include data from the Winter Olympics.
-* Perform predictive analysis for upcoming events.
-* Add interactive dashboards using Plotly Dash.
-
-
 ---
 
 
@@ -74,6 +67,15 @@ This repository explores the history, data, and evolution of the Olympic Games, 
 
 - Kaggle Olympics Dataset (1896–present)
 - International Olympic Committee (IOC) Official Website
+
+---
+
+
+- ## Future Enhancements
+
+* Include data from the Summer Olympics.
+* Perform predictive analysis for upcoming events.
+* Add interactive dashboards using Plotly Dash.
 
 
 ---
